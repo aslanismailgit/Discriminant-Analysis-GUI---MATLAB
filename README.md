@@ -11,7 +11,7 @@ This App is designed to carry out PCA.
 
 I wanted to create a “Discriminant Analysis Lab” kind of App so that one can see the change on a model and outputs immediately. So one can grab the rationale behind. Below parameters can be changed in this App and model parameters and success can be seen immediately.
 
-· Inputs
+- Inputs
   o   means of variables
   o   standard deviation of variables
   o   Linear vs Quadratic models
