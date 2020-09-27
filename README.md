@@ -19,9 +19,9 @@ I wanted to create a “Discriminant Analysis Lab” kind of App so that one can
     - train/test set ratio
 
 - Outputs
-  - TP, TN, FP, FN
-  - Confusion matrix
-  - Scatter and model plot
+    - TP, TN, FP, FN
+    - Confusion matrix
+    - Scatter and model plot
 
 
 pls contact ismailaslan1@gmail.com for more info.
