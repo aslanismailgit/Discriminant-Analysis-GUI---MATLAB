@@ -13,15 +13,15 @@ I wanted to create a “Discriminant Analysis Lab” kind of App so that one can
 
 - Inputs
     - means of variables
-  o   standard deviation of variables
-  o   Linear vs Quadratic models
-  o   Cost of misclassification
-  o   train/test set ratio
+    - standard deviation of variables
+    - Linear vs Quadratic models
+    - Cost of misclassification
+    - train/test set ratio
 
-· Outputs
-  o   TP, TN, FP, FN
-  o   Confusion matrix
-  o   Scatter and model plot
+- Outputs
+  - TP, TN, FP, FN
+  - Confusion matrix
+  - Scatter and model plot
 
 
 pls contact ismailaslan1@gmail.com for more info.
