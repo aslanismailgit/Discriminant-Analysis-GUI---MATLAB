@@ -1,6 +1,5 @@
 # Discriminant-Analysis-GUI---MATLAB
 A GUI designed to understand basics of Discriminant Analysisi
-This App is designed to carry out PCA.
 
 - There 2 options to run:
   1. Add App file to MATLAB Apps
@@ -24,7 +23,6 @@ I wanted to create a “Discriminant Analysis Lab” kind of App so that one can
     - Scatter and model plot
 
 
-pls contact ismailaslan1@gmail.com for more info.
 Good luck
 
 
